@@ -1,6 +1,6 @@
-# Descripción de la tarea: Formulario para registrar entrenamientos
+# Descripción de la tarea:
 
-Se ha creado un formulario en HTML para que los usuarios de un centro deportivo puedan registrar los entrenamientos realizados.
+Hola somos Javier, Yaret y Yeremy y hemos creado un formulario en HTML para que los usuarios de un centro deportivo puedan registrar los entrenamientos realizados.
 
 ## Características principales
 - **Método de envío:** El formulario utiliza `POST` o `GET` hacia una URL de `webhook.site`.
@@ -16,4 +16,147 @@ Se ha creado un formulario en HTML para que los usuarios de un centro deportivo 
 - **Elementos interactivos:** Controles deslizantes y listas desplegables.
 - **Botones:** Incluye opciones para enviar y restablecer los datos del formulario.
 
-hola guapo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ivan guapo
