@@ -16,6 +16,10 @@ Hola somos Javier, Yaret y Yeremy y hemos creado un formulario en HTML para que 
 - **Elementos interactivos:** Controles deslizantes y listas desplegables.
 - **Botones:** Incluye opciones para enviar y restablecer los datos del formulario.
 
+## Enlace Formulario
+[Formulario de Entrenamiento](https://github.com/NesteaMangoPina/YerYarJav/blob/main/formulario_entrenamiento.html)
+
+
 
 
 
